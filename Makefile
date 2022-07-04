@@ -1,3 +1,2 @@
-make say-hello
-	console.log('Hello, World!');
-
+say-hello:
+		node bin/sayHello.js
